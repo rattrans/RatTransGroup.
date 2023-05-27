@@ -1,0 +1,40 @@
+*{
+	margin: 0;
+	padding: 10px;
+  }
+  body{
+	background-image: url(file:///C:/Users/38095/Downloads/Telegram%20Desktop/photo_2023-05-27_09-51-11.jpg);
+	background-size: cover;
+	color: rgb(255, 255, 255);
+  }
+  header{
+	display: flex;
+	justify-content: center;
+  }
+  .Logo, .Top_menu{
+	display: inline-block;
+	vertical-align: bottom;
+	margin-right: 15px;
+  }
+  .Top_menu li{
+	margin-right: 15px;
+	display: inline-block;
+	vertical-align: bottom;
+  }
+  .Top_menu a{
+	vertical-align: bottom;
+	padding-bottom: 20px;
+	font-family: arial;
+	font-size: 15px;
+	color: rgb(6, 3, 3);
+	text-decoration: none;
+  }
+  .Top_menu a:hover{
+	color: rgb(45, 137, 117);
+  }
+  .Logo h1{
+	  font-family: arial;
+	  font-size: 30px;
+	  padding-bottom: 20px;
+	  color: rgb(7, 6, 6);
+  }
